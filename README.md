@@ -1,1 +1,1 @@
-# Python codes from different resources
+# Python / AI / ML
