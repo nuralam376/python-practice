@@ -7,7 +7,7 @@ print(tup[:])
 
 nums = (1) 
 print(type(nums)) #int
-nums = (1,2,3,4,5)
+nums = (1,2,2,3,4,5)
 print(type(nums))
 
 # nums[2] = 3 is not possible, because tuple is immutable like string
